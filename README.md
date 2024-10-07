@@ -1,4 +1,4 @@
-<h1 align="center">Greetings 👋, I'm I'm Al-Imam Uddin</h1>
+<h1 align="center">Greetings 👋, I'm Al-Imam Uddin</h1>
 <h3 align="center">👨‍💻 Software Engineer | 🌐 Web Developer | 📱 Mobile App Enthusiast | 💡 AI&ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imam2719&label=Profile%20views&color=0e75b6&style=flat" alt="imam2719" /> </p>
